@@ -22,4 +22,4 @@
 - `git commit` -m "version added"
 - `git flow release finish` '1.0.1' This will auto merge the devlopemnt branch with master branch
 - `git checkout` master
-- `git push`
+- `git push` origin --all --follow-tags
