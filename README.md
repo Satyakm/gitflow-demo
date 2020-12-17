@@ -1,4 +1,4 @@
-# gitflow-demo 1.0.2
+# gitflow-demo 1.0.3
 
 - `git flow init` - Create a new Project
 - `git branch` -v - Check the avalable branch
@@ -26,3 +26,4 @@
 
 https://github.com/nvie/gitflow
 https://www.youtube.com/watch?v=BYrt6luynCI
+https://jeffkreeftmeijer.com/git-flow/
