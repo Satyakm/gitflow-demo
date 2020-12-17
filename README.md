@@ -1,4 +1,4 @@
-# gitflow-demo
+# gitflow-demo 1.0.1
 
 - `git flow init` - Create a new Project
 - `git branch` -v - Check the avalable branch
